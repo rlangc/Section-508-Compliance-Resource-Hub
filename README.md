@@ -36,117 +36,126 @@ This SOP applies to all instructional designers, content developers, training fa
 
 <h4>5.2.1 Document Structure</h4>
 
-    Use built-in headings (H1, H2, H3) for easy navigation.
-    Include a table of contents for long documents.
-    Use descriptive hyperlinks instead of "click here."
+- Use built-in headings (H1, H2, H3) for easy navigation
+- Include a table of contents for long documents
+- Use descriptive hyperlinks instead of "click here"
 
 <h4>5.2.2 Text & Formatting</h4>
 
-    Use sans-serif fonts (e.g., Arial, Calibri) for readability.
-    Maintain at least a 12pt font size.
-    Ensure sufficient color contrast (e.g., black text on a white background).
+- Use sans-serif fonts (e.g., Arial, Calibri) for readability
+- Maintain at least a 12pt font size
+- Ensure sufficient color contrast (e.g., black text on a white background)
 
 <h4>5.2.3 Images & Graphics</h4>
 
-
-    Provide alternative text (alt text) for all images.
-    Avoid using images of text; if necessary, provide a textual alternative.
+- Provide alternative text (alt text) for all images
+- Avoid using images of text; if necessary, provide a textual alternative
 
 <h4>5.2.4 Tables</h4>
 
-    Use proper table headers and avoid merged cells.
-    Provide descriptive summaries for complex tables.
+- Use proper table headers and avoid merged cells
+- Provide descriptive summaries for complex tables
 
 <h4>5.2.5 PDFs</h4>
 
-    Use accessible PDFs by converting Word documents correctly.
-    Ensure the PDF is tagged and structured for screen readers.
-    Use Optical Character Recognition (OCR) for scanned documents.
+- Use accessible PDFs by converting Word documents correctly
+- Ensure the PDF is tagged and structured for screen readers
+- Use Optical Character Recognition (OCR) for scanned documents
 
 <h3>5.3 508 Compliance in Interactive Multimedia Courses</h3>
 
 <h4>5.3.1 Course Navigation</h4>
 
+- Ensure all interactions are keyboard-navigable
+- Provide a "skip navigation" link to bypass repetitive content
 
-    Ensure all interactions are keyboard-navigable.
-    Provide a "skip navigation" link to bypass repetitive content.
+<h4>5.3.2 Audio & Video Content</h4>
 
-5.3.2 Audio & Video Content
+- Include closed captions for all videos
+- Provide audio descriptions for essential visual elements
+- Ensure transcripts are available for all audio-based content
 
-    Include closed captions for all videos.
-    Provide audio descriptions for essential visual elements.
-    Ensure transcripts are available for all audio-based content.
+<h4>5.3.3 Interactive Elements</h4>
 
-5.3.3 Interactive Elements
+- Ensure quizzes, drag-and-drop activities, and simulations are accessible
+- Offer alternative text-based versions of interactive exercises
 
-    Ensure quizzes, drag-and-drop activities, and simulations are accessible.
-    Offer alternative text-based versions of interactive exercises.
+<h4>5.3.4 Testing & Verification</h4>
 
-5.3.4 Testing & Verification
+- Perform screen reader tests (e.g., NVDA, JAWS)
+- Validate with 508 compliance checkers (e.g., ANDI, WAVE)
 
-    Perform screen reader tests (e.g., NVDA, JAWS).
-    Validate with 508 compliance checkers (e.g., ANDI, WAVE).
+<h3>5.4 508 Compliance in PowerPoint Presentations</h3>
 
-5.4 508 Compliance in PowerPoint Presentations
-5.4.1 Slide Layout & Structure
+<h4>5.4.1 Slide Layout & Structure</h4>
 
-    Use built-in PowerPoint templates for accessibility.
-    Ensure a logical reading order in the "Selection Pane."
+- Use built-in PowerPoint templates for accessibility
+- Ensure a logical reading order in the "Selection Pane"
 
-5.4.2 Text & Formatting
+<h4>5.4.2 Text & Formatting</h4>
 
-    Use at least a 24pt font size for readability.
-    Avoid flashing content that may trigger seizures.
-    Ensure sufficient color contrast.
+- Use at least a 24pt font size for readability
+- Avoid flashing content that may trigger seizures
+- Ensure sufficient color contrast
 
-5.4.3 Images & Graphics
+<h4>5.4.3 Images & Graphics</h4>
 
-    Provide alt text for all non-decorative images.
-    Avoid conveying information using color alone.
+- Provide alt text for all non-decorative images
+- Avoid conveying information using color alone
 
-5.4.4 Multimedia Elements
+<h4>5.4.4 Multimedia Elements</h4>
 
-    Add captions to embedded videos.
-    Ensure embedded audio is transcribed.
+- Add captions to embedded videos
+- Ensure embedded audio is transcribed
 
-5.4.5 Delivery & Distribution
+<h4>5.4.5 Delivery & Distribution</h4>
 
-    Export to accessible PDF if sharing outside PowerPoint.
-    Check accessibility with PowerPoint's built-in checker.
+- Export to accessible PDF if sharing outside PowerPoint
+- Check accessibility with PowerPoint's built-in checker
 
-6. Accessibility Testing & Validation
-6.1 Automated Checks
+<h3>6. Accessibility Testing & Validation</h3>
 
-    Use tools like Microsoft Accessibility Checker, WAVE, and ANDI.
-    Ensure compliance with WCAG 2.1 AA standards.
+<h4>6.1 Automated Checks</h4>
 
-6.2 Manual Testing
+- Use tools like Microsoft Accessibility Checker, WAVE, and ANDI
+- Ensure compliance with WCAG 2.1 AA standards
 
-    Test with screen readers (JAWS, NVDA).
-    Verify keyboard accessibility.
-    Check for proper alternative text descriptions.
+<h4>6.2 Manual Testing</h4>
 
-6.3 User Feedback
+- Test with screen readers (JAWS, NVDA)
+- Verify keyboard accessibility
+- Check for proper alternative text descriptions
 
-    Gather feedback from users with disabilities.
-    Continuously improve training materials based on accessibility audits.
+<h4>6.3 User Feedback</h4>
 
-7. Training & Awareness
+- Gather feedback from users with disabilities
+- Continuously improve training materials based on accessibility audits
 
-    Conduct regular 508 compliance training for content creators.
-    Develop quick reference guides and best practices.
-    Establish an internal accessibility review process.
+<h2></h2>
 
-8. Continuous Improvement
+<h3>7. Training & Awareness</h3>
 
-    Regularly update materials to align with latest 508 standards.
-    Perform annual accessibility audits.
-    Encourage an inclusive culture by integrating accessibility into content development workflows.
+- Conduct regular 508 compliance training for content creators
+- Develop quick reference guides and best practices
+- Establish an internal accessibility review process
 
-9. References
+<h3>8. Continuous Improvement</h3>
 
-    Section 508 Standards: https://www.section508.gov
-    WCAG Guidelines: https://www.w3.org/WAI/standards-guidelines/wcag/
-    Web Accessibility Evaluation Tool (WAVE): https://wave.webaim.org
+- Regularly update materials to align with latest 508 standards
+- Perform annual accessibility audits
+- Encourage an inclusive culture by integrating accessibility into content development workflows
 
-This SOP provides a clear roadmap for ensuring all training materials—documents, interactive courses, and presentations—meet Section 508 accessibility standards. Let me know if you'd like additional customization!
+<h3>9. References</h3>
+
+- Section 508 Standards: https://www.section508.gov
+- WCAG Guidelines: https://www.w3.org/WAI/standards-guidelines/wcag/
+- Web Accessibility Evaluation Tool (WAVE): https://wave.webaim.org
+
+<h2></h2>
+
+This SOP provides a clear roadmap for ensuring all training materials—documents, interactive courses, and presentations—meet Section 508 accessibility standards.
+
+<h2></h2>
+
+<p align="center">
+  <a href="https://github.com/rlangc/Test_RCL.git"><b>Return to Home</b></a>
