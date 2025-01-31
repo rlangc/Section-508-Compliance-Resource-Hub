@@ -32,6 +32,8 @@ This SOP applies to all instructional designers, content developers, training fa
 - Ensure all audio and video content includes captions and transcripts.
 - Conduct accessibility testing before publishing training materials.
 
+<h2></h2>
+
 <h3>5.2 508 Compliance in Training Documents (Word, PDFs, etc.)</h3>
 
 <h4>5.2.1 Document Structure</h4>
@@ -62,6 +64,8 @@ This SOP applies to all instructional designers, content developers, training fa
 - Ensure the PDF is tagged and structured for screen readers
 - Use Optical Character Recognition (OCR) for scanned documents
 
+<h2></h2>
+
 <h3>5.3 508 Compliance in Interactive Multimedia Courses</h3>
 
 <h4>5.3.1 Course Navigation</h4>
@@ -84,6 +88,8 @@ This SOP applies to all instructional designers, content developers, training fa
 
 - Perform screen reader tests (e.g., NVDA, JAWS)
 - Validate with 508 compliance checkers (e.g., ANDI, WAVE)
+
+<h2></h2>
 
 <h3>5.4 508 Compliance in PowerPoint Presentations</h3>
 
@@ -113,6 +119,8 @@ This SOP applies to all instructional designers, content developers, training fa
 - Export to accessible PDF if sharing outside PowerPoint
 - Check accessibility with PowerPoint's built-in checker
 
+<h2></h2>
+
 <h3>6. Accessibility Testing & Validation</h3>
 
 <h4>6.1 Automated Checks</h4>
@@ -139,11 +147,15 @@ This SOP applies to all instructional designers, content developers, training fa
 - Develop quick reference guides and best practices
 - Establish an internal accessibility review process
 
+<h2></h2>
+
 <h3>8. Continuous Improvement</h3>
 
 - Regularly update materials to align with latest 508 standards
 - Perform annual accessibility audits
 - Encourage an inclusive culture by integrating accessibility into content development workflows
+
+<h2></h2>
 
 <h3>9. References</h3>
 
