@@ -168,6 +168,5 @@ This SOP applies to all instructional designers, content developers, training fa
 This SOP provides a clear roadmap for ensuring all training materials—documents, interactive courses, and presentations—meet Section 508 accessibility standards.
 
 <h2></h2>
-
 <p align="center">
-  <a href="https://github.com/rlangc/Test_RCL.git"><b>Return to Home</b></a>
+  <a href="https://github.com/rlangc"><b>Return to Home</b></a>
