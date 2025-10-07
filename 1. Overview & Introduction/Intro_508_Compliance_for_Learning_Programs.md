@@ -34,6 +34,4 @@ Whether you're designing a course, creating documentation, or evaluating a train
 - Compliance Officers and Quality Assurance Teams
 - Anyone responsible for the development or delivery of digital training content
 
----
-
 > Accessibility is not an add-on—it’s a design requirement. When you plan for inclusion from the beginning, you build better learning for everyone.
